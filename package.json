@@ -1,0 +1,16 @@
+{
+    "name": "kitchen-sink-prover",
+    "version": "1.0.0",
+    "description": "An open-source cryptographic verifier for the Kitchen Sink project.",
+    "scripts": {
+        "verify": "tsx app.ts verify"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "commander": "^11.1.0",
+        "starknet": "^6.11.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0"
+    }
+}
