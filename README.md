@@ -8,7 +8,7 @@
 
 **Kitchen Sink Prover** is an open-source cryptographic verifier. It is designed to prove the absolute integrity and inseparability of a creator and their creation.
 
-**Contract Address** of **$RZN** a BondingCurveERC721: https://voyager.online/token/0x7299ecb00b90ec2eaf50d25f6c35ef401a5386f8806a0e955a270d29d934439
+**Contract Address** of **$RZN** a BondingCurveERC721: https://voyager.online/nft-contract/0x07299ecB00B90eC2eaF50D25f6C35eF401a5386f8806a0e955A270D29D934439
 
 ## The Philosophy: Vulnerability & Integrity
 
