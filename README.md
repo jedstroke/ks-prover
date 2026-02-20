@@ -1,4 +1,6 @@
-![Kitchen Sink Prover](https://avatars.githubusercontent.com/u/135972697?s=400&u=e14969fbbd26382f69f0be425c234e846b3bd8b8&v=4)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/135972697?s=400&u=e14969fbbd26382f69f0be425c234e846b3bd8b8&v=4" alt="Kitchen Sink Prover" />
+</div>
 
 # **Kitchen Sink Prover |-/** - **$RZN**
 
