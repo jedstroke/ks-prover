@@ -10,6 +10,10 @@
 
 **Contract Address** of **$RZN** a BondingCurveERC721: https://voyager.online/nft-contract/0x07299ecB00B90eC2eaF50D25f6C35eF401a5386f8806a0e955A270D29D934439
 
+## Video Demo
+
+[Watch the project demo](https://github.com/jedstroke/ks-prover/raw/refs/heads/main/demo.mp4)
+
 ## The Philosophy: Vulnerability & Integrity
 
 Creating art—true, raw art—often involves an inner meaning or journey that only the author understands. In this project, three poems (_Kanye Affection_, _When They Left_, and _Mono No Aware_) as seen here: https://taveo.jedshock.com/ are paired with private, gated reflections (the "paratext"). These reflections contain the unedited, unpolished truth behind the art.
