@@ -107,7 +107,7 @@ For transparency, the verifier expects the `snapshot.json` provided by the backe
 
 ```json
 {
-  "project": "Kitchen Sink",
+  "project": "RZN",
   "poems": [
     {
       "tokenId": 1,
